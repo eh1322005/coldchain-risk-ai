@@ -136,6 +136,7 @@ seafood-spoilage-predictor/
 **AI Engineer**  
 **GitHub:** [github.com/eh1322005](https://github.com/eh1322005)  
 **LinkedIn:** [linkedin.com/in/eslam-hassan](https://www.linkedin.com/feed/)
+
 **WhatsApp:** 01020121479
 -
 ## 📄 License
