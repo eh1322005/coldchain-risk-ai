@@ -72,14 +72,7 @@ seafood-spoilage-predictor/
 
 ---
 
-## 📊 Dataset
 
-| Property | Value |
-|----------|-------|
-| Records | 480 shipments |
-| Features | 13 raw + 3 engineered |
-| Target | `Spoilage_Risk_Score` (0–100) |
-| Task | Regression |
 
 ### Feature Categories
 
@@ -115,15 +108,7 @@ seafood-spoilage-predictor/
 
 ---
 
-## 🤖 Models Evaluated
 
-| Model | MAE | RMSE | R² |
-|-------|-----|------|-----|
-| **Linear Regression** ✅ | **4.33** | **6.11** | **0.864** |
-| Random Forest | 5.60 | 8.53 | 0.736 |
-| Gradient Boosting | 5.60 | 8.53 | 0.736 |
-| Decision Tree | 7.71 | 10.41 | 0.607 |
-| SVR | 8.80 | 14.81 | 0.204 |
 
 **Linear Regression** outperformed ensemble models because feature engineering transformed complex relationships into a highly linear representation.
 
