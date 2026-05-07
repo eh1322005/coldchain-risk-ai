@@ -10,9 +10,6 @@ env/
 data/*.csv
 data/*.xlsx
 
-# Model artifacts (regenerate with train.py)
-model/*.pkl
-
 # Jupyter
 .ipynb_checkpoints/
 *.ipynb
