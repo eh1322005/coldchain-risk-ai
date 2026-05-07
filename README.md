@@ -16,37 +16,6 @@ Seafood products are highly perishable and spoil rapidly when cold-chain conditi
 
 ---
 
-## 🚀 Quick Start
-
-### 1. Clone the repo
-```bash
-git clone https://github.com/YOUR_USERNAME/seafood-spoilage-predictor.git
-cd seafood-spoilage-predictor
-```
-
-### 2. Install dependencies
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Add your dataset
-Place the CSV file inside the `data/` folder:
-```
-data/tm271_cold_chain_spoilage_risk_dataset.csv
-```
-
-### 4. Train the model
-```bash
-python train.py
-```
-
-### 5. Launch the app
-```bash
-streamlit run app.py
-```
-
----
-
 ## 🏗️ Project Structure
 
 ```
